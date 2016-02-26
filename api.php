@@ -1,6 +1,6 @@
 <?php
 
-class CitrixAPI {
+Class CitrixAPI {
 	
   public static $oauth, $session_manager, $last_response, $auth_type;
   protected static $url, $client_id, $secret, $ch, $headers;
